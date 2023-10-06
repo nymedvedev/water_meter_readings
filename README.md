@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 <div align="center">
-  <h1>Water_meter_readings</h1>
+  <h2>Water meter readings<br />(Показания счётчиков воды)</h2>
   <p> Моя программа для быстрого расчёта сумм к оплате по показаниям счётчиков воды. </p>
     <br />
     <br />
@@ -44,7 +44,7 @@
 И, самое главное, программа хоранит в readings.txt предыдущие показания и текущие тарифы,
 а при закрытии заменяет их на новые показания и актуальные тарифы соответственно.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">вверх</a>)</p>
 
 ## Использование
 
@@ -67,7 +67,7 @@
 4.2. Если дошли до конца кода, и сохранились неверные значения, просто отредактируйте их в файле <b>readings.txt</b>, как в п.1.1.<br />
 <br />
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">вверх</a>)</p>
 
 ## Создание программы
 
@@ -95,12 +95,9 @@ Project Link: [https://github.com/nymedvedev/water_meter_readings](https://githu
 
 [Python-url]: https://www.python.org
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 ## [License](https://github.com/nymedvedev/water_meter_readings/blob/main/LICENSE.md)
 
 <b>Water_meter_readings</b> © [Medvedev Nikolay](https://github.com/nymedvedev)
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">вверх</a>)</p>
